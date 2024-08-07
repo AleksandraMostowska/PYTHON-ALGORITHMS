@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="moduleMapping">
+      <map>
+        <entry key="am_python_algorithms" value="AM_python_algorithms" />
+      </map>
+    </option>
+  </component>
+</project>
